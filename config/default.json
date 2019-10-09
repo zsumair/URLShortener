@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://<username>:<password>@sideproj-8gcv5.mongodb.net/test?retryWrites=true&w=majority", // Add url from mongodb cloud atlas or your localdb url here
+  "mongoURI": "mongodb+srv://<username>:<password>@sideproj-8gcv5.mongodb.net/test?retryWrites=true&w=majority",
   "baseUrl": "http://localhost:5000"
 }
